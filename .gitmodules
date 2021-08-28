@@ -1,0 +1,12 @@
+[submodule "ACTon-lexical-analysis"]
+	path = ACTon-lexical-analysis
+	url = https://github.com/tahaShm/ACTon-lexical-analysis.git
+[submodule "ACTon-semantic-check"]
+	path = ACTon-semantic-check
+	url = https://github.com/tahaShm/ACTon-semantic-check.git
+[submodule "ACTon-type-check"]
+	path = ACTon-type-check
+	url = https://github.com/tahaShm/ACTon-type-check.git
+[submodule "ACTon-bytecode-generation"]
+	path = ACTon-bytecode-generation
+	url = https://github.com/tahaShm/ACTon-bytecode-generation.git
